@@ -6,7 +6,6 @@ SpaghettiFactory is a collection of scripts, tools and experiments
 built while learning automation, infrastructure, and homelab.
 
 ⚠️ Expect spaghetti.  
-🧠 Expect learning.
 
 ---
 
